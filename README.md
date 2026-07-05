@@ -10,4 +10,5 @@ napisz plan testu dla rejestracji konta wp.pl z uwzględnieniem walidacji (tylko
 3. Przedmiot testów
 4. Kryteria zaliczenia / niezaliczenia testów
 5. Kryteria wejścia / wyjścia
+6. Test
 
